@@ -1,4 +1,4 @@
-let Width = window.innerWidth - 75;
+let Width = window.innerWidth;
 let Height = window.innerHeight;
 
 let size = 10;
